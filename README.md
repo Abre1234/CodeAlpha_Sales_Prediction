@@ -1,39 +1,28 @@
-# 📊 CodeAlpha Sales Prediction
+# 📊 Sales Prediction using Advertising Data — CodeAlpha Internship
 
-This project predicts product sales based on advertising budget across TV, Radio, and Newspaper platforms using a Linear Regression model. Built as part of the CodeAlpha Internship.
+This project predicts product sales based on advertising budgets for TV, Radio, and Newspaper channels using a supervised regression model. Built during the CodeAlpha Internship program.
 
----
+## 🔍 Overview
+- Linear Regression model
+- Handles outliers and feature selection
+- Deployment using Gradio for interactive use
 
-## 🚀 Features
-- Data cleaning and preprocessing
-- Outlier detection and removal
-- Feature selection
-- Linear Regression modeling
-- Evaluation using RMSE and R²
-- Gradio web app for interactive predictions
-
----
-
-## 🧪 Technologies Used
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
+## 💻 Tech Stack
+- Python, Pandas, NumPy
+- Scikit-learn, Seaborn, Matplotlib
 - Gradio
 
----
-
 ## 📈 Model Performance
-- **Train R²**: 0.89
-- **Test R²**: 0.90
-- **Test RMSE**: ~1.66
+- R² (Test): 0.90
+- RMSE: ~1.66
+- No overfitting observed
 
-✅ No overfitting observed.
+## 🚀 Deployment
+Gradio app allows interactive input of advertising budget and outputs predicted sales.
 
----
-
-## 📊 Usage Instructions
-
-1. Clone this repo:
+## 📁 Run This Project
 ```bash
-https://github.com/Abre1234/CodeAlpha_Sales_Prediction/Sales_Prediction.ipynb
+git clone https://github.com/Abre1234/CodeAlpha_Sales_Prediction.git
+cd CodeAlpha_SalesPrediction
+pip install -r requirements.txt
+jupyter notebook CodeAlpha_Sales_Prediction.ipynb
