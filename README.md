@@ -36,4 +36,4 @@ This project predicts product sales based on advertising budget across TV, Radio
 
 1. Clone this repo:
 ```bash
-git clone [https://github.com/Abre1234/CodeAlpha_Sales_Prediction.git](https://github.com/Abre1234/CodeAlpha_Sales_Prediction)
+git clone (https://github.com/Abre1234/CodeAlpha_Sales_Prediction)
