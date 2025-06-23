@@ -20,6 +20,6 @@ This project predicts product sales based on advertising budgets for TV, Radio, 
 ## 🚀 Deployment
 Gradio app allows interactive input of advertising budget and outputs predicted sales.
 
-➡️ [GitHub Repo](https://github.com/Abre1234/CodeAlpha_Sales_Prediction/Sales_Prediction.ipynb)
+➡️ [GitHub Repo](https://github.com/Abre1234/CodeAlpha_Sales_Prediction)
 
 
