@@ -23,3 +23,4 @@ Gradio app allows interactive input of advertising budget and outputs predicted 
 ➡️ [GitHub Repo](https://github.com/Abre1234/CodeAlpha_Sales_Prediction/blob/main/Sales_Prediction.ipynb))
 
 
+[Dataset Advertising](https://github.com/Abre1234/CodeAlpha_Sales_Prediction/blob/main/Advertising.csv)
